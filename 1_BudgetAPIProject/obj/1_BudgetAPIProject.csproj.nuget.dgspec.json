@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject.csproj": {}
+    "C:\\Users\\JerryWei\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject.csproj": {
+    "C:\\Users\\JerryWei\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject.csproj",
+        "projectUniqueName": "C:\\Users\\JerryWei\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject.csproj",
         "projectName": "1_BudgetAPIProject",
-        "projectPath": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject.csproj",
-        "packagesPath": "C:\\Users\\ettah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\obj\\",
+        "projectPath": "C:\\Users\\JerryWei\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject.csproj",
+        "packagesPath": "C:\\Users\\JerryWei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JerryWei\\1_BudgetProject\\1_BudgetAPIProject\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ettah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JerryWei\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -39,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -63,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\JerryWei\\.dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
