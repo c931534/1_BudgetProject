@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\1_BudgetAPIProject.bundle.scp.css",
+      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\1_BudgetAPIProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\1_BudgetAPIProject.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject\\wwwroot\\app.css",
+      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetAPIProject\\1_BudgetAPIProject\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\ettah\\Desktop\\noproject\\1_BudgetProject\\1_BudgetProject\\1_BudgetAPIProject\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
